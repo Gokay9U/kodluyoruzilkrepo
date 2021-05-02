@@ -71,13 +71,13 @@ nav li + li { margin-left: 20px; }
 }
 /* sprite.png dosyasından iconların yerini belirttik */
 .menu a {
-  background: url("./images/sprite.png") -132px -38px;
+  background: url("./sprite.png") -132px -38px;
   height: 30px;
   width: 30px;
 }
 
 .notifications a {
-  background: url("./images/sprite.png") -194px -21px;
+  background: url("./sprite.png") -194px -21px;
   background-color: black;
   border-radius: 100%;
   height: 20px;
